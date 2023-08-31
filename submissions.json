@@ -1,0 +1,393 @@
+{
+  "CF210120504": {
+    "contest_id": 1836,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1836/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Destroyer",
+    "problem_url": "https://codeforces.com/contest/1836/problem/A",
+    "submission_id": "CF210120504",
+    "submission_url": "https://codeforces.com/contest/1836/submission/210120504",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Jun/18/2023 20:19"
+  },
+  "CF210461837": {
+    "contest_id": 1843,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1843/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sasha and Array Coloring",
+    "problem_url": "https://codeforces.com/contest/1843/problem/A",
+    "submission_id": "CF210461837",
+    "submission_url": "https://codeforces.com/contest/1843/submission/210461837",
+    "tags": [
+      "greedy",
+      "sortings",
+      "two pointers",
+      "*800"
+    ],
+    "timestamp": "Jun/20/2023 22:28"
+  },
+  "CF210464742": {
+    "contest_id": 1843,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1843/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Sum in Binary Tree",
+    "problem_url": "https://codeforces.com/contest/1843/problem/C",
+    "submission_id": "CF210464742",
+    "submission_url": "https://codeforces.com/contest/1843/submission/210464742",
+    "tags": [
+      "bitmasks",
+      "combinatorics",
+      "math",
+      "trees",
+      "*800"
+    ],
+    "timestamp": "Jun/20/2023 22:45"
+  },
+  "CF210876322": {
+    "contest_id": 1842,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1842/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Tenzing and Tsondu",
+    "problem_url": "https://codeforces.com/contest/1842/problem/A",
+    "submission_id": "CF210876322",
+    "submission_url": "https://codeforces.com/contest/1842/submission/210876322",
+    "tags": [
+      "games",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jun/24/2023 19:39"
+  },
+  "CF210906263": {
+    "contest_id": 1842,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1842/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Tenzing and Books",
+    "problem_url": "https://codeforces.com/contest/1842/problem/B",
+    "submission_id": "CF210906263",
+    "submission_url": "https://codeforces.com/contest/1842/submission/210906263",
+    "tags": [
+      "bitmasks",
+      "greedy",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Jun/24/2023 20:23"
+  },
+  "CF210995510": {
+    "contest_id": 1842,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1842/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Tenzing and Books",
+    "problem_url": "https://codeforces.com/contest/1842/problem/B",
+    "submission_id": "CF210995510",
+    "submission_url": "https://codeforces.com/contest/1842/submission/210995510",
+    "tags": [
+      "bitmasks",
+      "greedy",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Jun/25/2023 12:06"
+  },
+  "CF211027451": {
+    "contest_id": 1842,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1842/C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Tenzing and Balls",
+    "problem_url": "https://codeforces.com/contest/1842/problem/C",
+    "submission_id": "CF211027451",
+    "submission_url": "https://codeforces.com/contest/1842/submission/211027451",
+    "tags": [
+      "dp",
+      "*1500"
+    ],
+    "timestamp": "Jun/25/2023 18:03"
+  },
+  "CF211481128": {
+    "contest_id": 1845,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1845/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Forbidden Integer",
+    "problem_url": "https://codeforces.com/contest/1845/problem/A",
+    "submission_id": "CF211481128",
+    "submission_url": "https://codeforces.com/contest/1845/submission/211481128",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "math",
+      "number theory",
+      "*800"
+    ],
+    "timestamp": "Jun/29/2023 20:47"
+  },
+  "CF211485931": {
+    "contest_id": 1845,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1845/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Come Together",
+    "problem_url": "https://codeforces.com/contest/1845/problem/B",
+    "submission_id": "CF211485931",
+    "submission_url": "https://codeforces.com/contest/1845/submission/211485931",
+    "tags": [
+      "geometry",
+      "implementation",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Jun/29/2023 20:54"
+  },
+  "CF212393832": {
+    "contest_id": 1847,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1847/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "The Man who became a God ",
+    "problem_url": "https://codeforces.com/contest/1847/problem/A",
+    "submission_id": "CF212393832",
+    "submission_url": "https://codeforces.com/contest/1847/submission/212393832",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Jul/06/2023 20:35"
+  },
+  "CF212404111": {
+    "contest_id": 1847,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1847/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Hamon Odyssey",
+    "problem_url": "https://codeforces.com/contest/1847/problem/B",
+    "submission_id": "CF212404111",
+    "submission_url": "https://codeforces.com/contest/1847/submission/212404111",
+    "tags": [
+      "bitmasks",
+      "greedy",
+      "two pointers",
+      "*1000"
+    ],
+    "timestamp": "Jul/06/2023 20:49"
+  },
+  "CF212581108": {
+    "contest_id": 1846,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1846/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Rudolph and Cut the Rope ",
+    "problem_url": "https://codeforces.com/contest/1846/problem/A",
+    "submission_id": "CF212581108",
+    "submission_url": "https://codeforces.com/contest/1846/submission/212581108",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jul/07/2023 20:16"
+  },
+  "CF213590104": {
+    "contest_id": 1844,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/1844/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Subtraction Game",
+    "problem_url": "https://codeforces.com/contest/1844/problem/A",
+    "submission_id": "CF213590104",
+    "submission_url": "https://codeforces.com/contest/1844/submission/213590104",
+    "tags": [
+      "constructive algorithms",
+      "games",
+      "*800"
+    ],
+    "timestamp": "Jul/13/2023 09:18"
+  },
+  "CF218590349": {
+    "contest_id": 144,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/144/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Arrival of the General",
+    "problem_url": "https://codeforces.com/contest/144/problem/A",
+    "submission_id": "CF218590349",
+    "submission_url": "https://codeforces.com/contest/144/submission/218590349",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Aug/12/2023 23:46"
+  },
+  "CF218638781": {
+    "contest_id": 263,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/263/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Beautiful Matrix",
+    "problem_url": "https://codeforces.com/contest/263/problem/A",
+    "submission_id": "CF218638781",
+    "submission_url": "https://codeforces.com/contest/263/submission/218638781",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Aug/13/2023 13:01"
+  },
+  "CF218639103": {
+    "contest_id": 61,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/61/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Ultra-Fast Mathematician",
+    "problem_url": "https://codeforces.com/contest/61/problem/A",
+    "submission_id": "CF218639103",
+    "submission_url": "https://codeforces.com/contest/61/submission/218639103",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Aug/13/2023 13:04"
+  },
+  "CF218639551": {
+    "contest_id": 104,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/104/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Blackjack",
+    "problem_url": "https://codeforces.com/contest/104/problem/A",
+    "submission_id": "CF218639551",
+    "submission_url": "https://codeforces.com/contest/104/submission/218639551",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Aug/13/2023 13:08"
+  },
+  "CF218639887": {
+    "contest_id": 133,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/133/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "HQ9+",
+    "problem_url": "https://codeforces.com/contest/133/problem/A",
+    "submission_id": "CF218639887",
+    "submission_url": "https://codeforces.com/contest/133/submission/218639887",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Aug/13/2023 13:11"
+  },
+  "CF218656584": {
+    "contest_id": 155,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/155/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "I_love_\\%username\\%",
+    "problem_url": "https://codeforces.com/contest/155/problem/A",
+    "submission_id": "CF218656584",
+    "submission_url": "https://codeforces.com/contest/155/submission/218656584",
+    "tags": [
+      "brute force",
+      "*800"
+    ],
+    "timestamp": "Aug/13/2023 15:43"
+  },
+  "CF218657420": {
+    "contest_id": 112,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/112/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Petya and Strings",
+    "problem_url": "https://codeforces.com/contest/112/problem/A",
+    "submission_id": "CF218657420",
+    "submission_url": "https://codeforces.com/contest/112/submission/218657420",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Aug/13/2023 15:51"
+  },
+  "CF218657721": {
+    "contest_id": 129,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/129/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Cookies",
+    "problem_url": "https://codeforces.com/contest/129/problem/A",
+    "submission_id": "CF218657721",
+    "submission_url": "https://codeforces.com/contest/129/submission/218657721",
+    "tags": [
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Aug/13/2023 15:54"
+  },
+  "CF218659508": {
+    "contest_id": 334,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/334/A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Candy Bags",
+    "problem_url": "https://codeforces.com/contest/334/problem/A",
+    "submission_id": "CF218659508",
+    "submission_url": "https://codeforces.com/contest/334/submission/218659508",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Aug/13/2023 16:11"
+  },
+  "CF218660025": {
+    "contest_id": 200,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces/200/B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Drinks",
+    "problem_url": "https://codeforces.com/contest/200/problem/B",
+    "submission_id": "CF218660025",
+    "submission_url": "https://codeforces.com/contest/200/submission/218660025",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Aug/13/2023 16:16"
+  }
+}
